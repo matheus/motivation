@@ -20,4 +20,4 @@ P.S.: Essa extensão é uma cópia de Motivation, criado por Alex Maccaw
 
 ![](screenshot.png)
 
-
+[Link para o post](https://medium.com/@ma/motiva%C3%A7%C3%A3o-no-seu-google-chrome-30aa85f89790)
